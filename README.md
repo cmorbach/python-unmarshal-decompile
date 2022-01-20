@@ -5,8 +5,10 @@ Unmarshal and decompile Python script starting with exec(marshal.loads(...
 - using uncompyle6 (Python < 3.7) and decompyle3 (Python >= 3.7)
 
 # Installation
+```
 pip install uncompyle6
 pip install decompyle3
+```
 
 # Usage
 
